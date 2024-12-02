@@ -165,7 +165,7 @@
   }
 
   .Expic img {
-    border-radius: 50%;
+    width: 80%;
     padding: 0 15px 0;
   }
   .Extext h3{
@@ -358,7 +358,6 @@
     .MyPython,
     .MySpecialSubject,
     .MyCurrent{
-      height: 380px;
       margin: 50px 0;
     }
   }
@@ -451,7 +450,6 @@
     .MyPython,
     .MySpecialSubject,
     .MyCurrent{
-      height: 450px;
     }
 
     .pic img{
