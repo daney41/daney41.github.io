@@ -150,9 +150,7 @@
     width: 100%;
     /* padding: 0 10% 0; */
   }
-  .MyPython,
-  .MySpecialSubject,
-  .MyCurrent {
+  .MyProject {
     box-shadow: 0 0 15px #dadadae1;
     width: 100%;
     flex-direction: column;
@@ -355,9 +353,7 @@
     .Expergird  {
       display: block;
     }
-    .MyPython,
-    .MySpecialSubject,
-    .MyCurrent{
+    .MyProject {
       margin: 50px 0;
     }
   }
@@ -446,14 +442,6 @@
     .myExperience {
       padding:0;
       margin: 0;
-    }
-    .MyPython,
-    .MySpecialSubject,
-    .MyCurrent{
-    }
-
-    .pic img{
-      width: 150px;
     }
     .front-end,.back-end,.Other  {
       padding: 50px 10%;
